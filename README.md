@@ -1,2 +1,0 @@
-# .github
-Valuation Model Specialists
